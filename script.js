@@ -10,47 +10,47 @@ const artistName = document.querySelector(".music-player p");
 
 const songs = [
   {
-    title: "Labon ko",
-    name: "Labon pe song for komal",
+    title: "dagabaaz re",
+    name: "dagabaaz re song for muskan",
     source:
-      "Labon Ko.mp3",
+      "dagabaaz re.mp3",
   },
   {
-    title: "Tere mast mast do nain",
-    name: "tere mast mast do nain song for komal",
+    title: "Ishq risk",
+    name: "Ishq risk song for muskan",
     source:
-      "tere mst mst do nain.mp3",
+      "Ishq risk.mp3",
   },
   {
-    title: "Tu jaane na",
-    name: "tu jaane na song for komal",
+    title: "o meri laila",
+    name: "o meri laila song for muskan",
     source:
-      "tu jaane na.mp3",
+      "o meri laila.mp3",
   },
   {
-    title: "sundar sundar",
-    name: "sundar sundar song song for komal",
+    title: "rang sarbaton ka",
+    name: "rang sarbaton ka song song for muskan",
     source:
-      "sundar sundar.mp3",
+      "rang sarbaton ka.mp3",
   },
   {
-    title: "mai tumhe bhulunga na",
-    name: "mai tumhe bhulunga na song for komal",
+    title: "rashke kamar",
+    name: "rashke kamar song for muskan",
     source:
-      "mai tujhe bhulunga na.mp3",
+      "rashke kamar.mp3",
   },
 
   {
-    title: "mana apna ishq adhura",
-    name: "mana apna ishq adhura song for komal",
+    title: "tum jo aaye",
+    name: "tum jo aaye song for muskan",
     source:
-      "mana apna ishq adhura.mp3",
+      "tum jo aaye.m4a",
   },
   {
-    title: "jamaane lg jaaye",
-    name: "jamaane lg jaaye for komal",
+    title: "tum se hi",
+    name: "tum se hi for muskan",
     source:
-      "jamaane lg jaaye.mp3",
+      "tum se hi.mp3",
   },
 ];
 
